@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MailChimp About Us Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.532">
+  <properties />
+  
+  
+            <testcase name="aboutUsTest" time="1.532" classname="com.selenium.seleniumTests.TestRunner" />
+      
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [MailChimpTests]">
+  <test thread-count="5" verbose="0" name="MailChimp About Us Test(failed)">
+    <classes>
+      <class name="com.selenium.seleniumTests.TestRunner">
+        <methods>
+          <include name="tearDown"/>
+          <include name="aboutUsTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.selenium.seleniumTests.TestRunner -->
+    </classes>
+  </test> <!-- MailChimp About Us Test(failed) -->
+</suite> <!-- Failed suite [MailChimpTests] -->
